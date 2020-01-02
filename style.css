@@ -268,7 +268,7 @@ ul.menu li {
 ul.menu li a {
 	font-size:40px;
 	line-height:50px;
-	font-family: fantasy;
+	font-family: 'Cabin Sketch', cursive;
 	text-transform:uppercase;
 	font-weight:bold;
 	letter-spacing:-2px;
@@ -359,15 +359,15 @@ footer {
 }
 /**********************form**********************/
 .map {
-	width:250px;
-	height:164px;
+	widows: 650px;;
+	height:400px;
 	border:#fff 10px solid;
 	background:#fff;
 	margin-top:8px;
 }
 .map iframe {
-	width:250px;
-	height:164px;
+	width:650px;
+	height:400px;
 }
 dl {
 	margin:18px 0px 0 0px;
